@@ -12,3 +12,6 @@
 
 **arrow function** has a shorter syntax than a function expression and does not bind its own this, arguments, super, or new.target. These function expressions are best suited for non-method functions, and they cannot be used as constructors.
 > source: [mdn](https://developer.mozilla.org/pl/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+**ES6 template strings**
+> source: [mdn](https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/template_strings)
