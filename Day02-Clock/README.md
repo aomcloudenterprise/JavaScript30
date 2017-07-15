@@ -1,9 +1,9 @@
-# Day 1 - CSS + JS Clock
+# Day 2 - CSS + JS Clock
 > 14 July 2017
 
-> The design is mine. Also I changed hands' animation ( I used @keyframes and animation steps to do this)
+The design is mine. Also I changed hands' animation ( I used @keyframes and animation steps to do this)
 
-[Click here to see DEMO](https://noeemi.github.io/JavaScript30/Day%2001%20-%20JavaScript%20Drum%20Kit/)
+[Click here to see DEMO](https://noeemi.github.io/JavaScript30/Day02-Clock/)
 
 ## New  knowledge:
 **newDate()** if no arguments are provided, the constructor creates a JavaScript Date object for the current date and time according to system. settings.

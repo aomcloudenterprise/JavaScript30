@@ -1,7 +1,7 @@
 # Day 1 - JavaScript Drum Kit
 > 13 July 2017
 
-[Click here to see DEMO](https://noeemi.github.io/JavaScript30/Day%2001%20-%20JavaScript%20Drum%20Kit/)
+[Click here to see DEMO](https://noeemi.github.io/JavaScript30/Day01-DrumKit/)
 
 ## New  knowledge:
 **the HTMLMediaElement.currentTime** property gives the current playback time in seconds. Setting this value seeks the media to the new time.
