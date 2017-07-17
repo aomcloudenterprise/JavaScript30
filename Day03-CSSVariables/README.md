@@ -15,3 +15,6 @@
 
 **Mousemove event** is fired when a pointing device (usually a mouse) is moved while over an element.
 > source: [mdn](https://developer.mozilla.org/en-US/docs/Web/Events/mousemove)
+
+**style.setProperty()** method interface sets a new value for a property on a CSS style declaration object.
+> source: [mdn](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty)
