@@ -7,7 +7,7 @@
 ## All challenges:
 - [X] **Day 1** - JavaScript Drum Kit [DEMO](https://noeemi.github.io/JavaScript30/Day%2001%20-%20JavaScript%20Drum%20Kit/)
 - [X] **Day 2** - JS CSS Clock
-- [ ] **Day 3** - CSS Variables
+- [X] **Day 3** - CSS Variables
 - [ ] **Day 4** - Array Cardio Day 1
 - [ ] **Day 5** - Flex Panel Gallery
 - [ ] **Day 6** - Ajax Type Ahead
