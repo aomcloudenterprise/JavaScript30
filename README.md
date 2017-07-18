@@ -8,8 +8,8 @@
 - [X] **Day 1** - JavaScript Drum Kit [DEMO](https://noeemi.github.io/JavaScript30/Day01-DrumKit/)
 - [X] **Day 2** - JS CSS Clock [DEMO](https://noeemi.github.io/JavaScript30/Day02-Clock/)
 - [X] **Day 3** - CSS Variables [DEMO](https://noeemi.github.io/JavaScript30/Day03-CSSVariables/)
-- [ ] **Day 4** - Array Cardio Day 1 [DEMO](https://noeemi.github.io/JavaScript30/Day04-ArrayCardio1/)
-- [ ] **Day 5** - Flex Panel Gallery
+- [X] **Day 4** - Array Cardio Day 1 [DEMO](https://noeemi.github.io/JavaScript30/Day04-ArrayCardio1/)
+- [X] **Day 5** - Flex Panel Gallery [DEMO](https://noeemi.github.io/JavaScript30/Day05-FlexPanels/)
 - [ ] **Day 6** - Ajax Type Ahead
 - [ ] **Day 7** - Array Cardio Day 2
 - [ ] **Day 8** - Fun with HTML5 Canvas
