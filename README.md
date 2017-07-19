@@ -10,7 +10,7 @@
 - [X] **Day 3** - CSS Variables [DEMO](https://noeemi.github.io/JavaScript30/Day03-CSSVariables/)
 - [X] **Day 4** - Array Cardio Day 1 [DEMO](https://noeemi.github.io/JavaScript30/Day04-ArrayCardio1/)
 - [X] **Day 5** - Flex Panel Gallery [DEMO](https://noeemi.github.io/JavaScript30/Day05-FlexPanels/)
-- [ ] **Day 6** - Ajax Type Ahead
+- [X] **Day 6** - Ajax Type Ahead [DEMO](https://noeemi.github.io/JavaScript30/Day06-AjaxTypeAhead/)
 - [ ] **Day 7** - Array Cardio Day 2
 - [ ] **Day 8** - Fun with HTML5 Canvas
 - [ ] **Day 9** - Dev Tools Domination
