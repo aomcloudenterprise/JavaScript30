@@ -1,5 +1,5 @@
 # Day 7 - Array Cardio 2
-> 19 July 2017
+> 20 July 2017
 
 [Click here to see DEMO](https://noeemi.github.io/JavaScript30/Day07-ArrayCardio2/)
 
