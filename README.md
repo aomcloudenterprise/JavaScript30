@@ -12,7 +12,7 @@
 - [X] **Day 5** - Flex Panel Gallery [DEMO](https://noeemi.github.io/JavaScript30/Day05-FlexPanels/)
 - [X] **Day 6** - Ajax Type Ahead [DEMO](https://noeemi.github.io/JavaScript30/Day06-AjaxTypeAhead/)
 - [X] **Day 7** - Array Cardio Day 2 [DEMO](https://noeemi.github.io/JavaScript30/Day07-ArrayCardio2/)
-- [ ] **Day 8** - Fun with HTML5 Canvas
+- [X] **Day 8** - Fun with HTML5 Canvas [DEMO](https://noeemi.github.io/JavaScript30/Day08-HTML5Canvas/)
 - [ ] **Day 9** - Dev Tools Domination
 - [ ] **Day 10** - Hold Shift and Check Checkboxes
 - [ ] **Day 11** - Custom HTML5 Video Player
