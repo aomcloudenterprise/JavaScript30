@@ -13,7 +13,7 @@
 - [X] **Day 6** - Ajax Type Ahead [DEMO](https://noeemi.github.io/JavaScript30/Day06-AjaxTypeAhead/)
 - [X] **Day 7** - Array Cardio Day 2 [DEMO](https://noeemi.github.io/JavaScript30/Day07-ArrayCardio2/)
 - [X] **Day 8** - Fun with HTML5 Canvas [DEMO](https://noeemi.github.io/JavaScript30/Day08-HTML5Canvas/)
-- [ ] **Day 9** - Dev Tools Domination
+- [x] **Day 9** - Dev Tools Domination [DEMO](https://noeemi.github.io/JavaScript30/Day09-DevTools/)
 - [ ] **Day 10** - Hold Shift and Check Checkboxes
 - [ ] **Day 11** - Custom HTML5 Video Player
 - [ ] **Day 12** - Key Sequence Detection
