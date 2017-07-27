@@ -15,7 +15,7 @@
 - [X] **Day 8** - Fun with HTML5 Canvas [DEMO](https://noeemi.github.io/JavaScript30/Day08-HTML5Canvas/)
 - [x] **Day 9** - Dev Tools Domination [DEMO](https://noeemi.github.io/JavaScript30/Day09-DevTools/)
 - [X] **Day 10** - Hold Shift and Check Checkboxes [DEMO](https://noeemi.github.io/JavaScript30/Day10-HoldShift/)
-- [ ] **Day 11** - Custom HTML5 Video Player
+- [X] **Day 11** - Custom HTML5 Video Player [DEMO](https://noeemi.github.io/JavaScript30/Day11-VideoPlayer/)
 - [ ] **Day 12** - Key Sequence Detection
 - [ ] **Day 13** - Slide In on Scroll
 - [ ] **Day 14** - Object and Arrays
