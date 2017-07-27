@@ -14,7 +14,7 @@
 - [X] **Day 7** - Array Cardio Day 2 [DEMO](https://noeemi.github.io/JavaScript30/Day07-ArrayCardio2/)
 - [X] **Day 8** - Fun with HTML5 Canvas [DEMO](https://noeemi.github.io/JavaScript30/Day08-HTML5Canvas/)
 - [x] **Day 9** - Dev Tools Domination [DEMO](https://noeemi.github.io/JavaScript30/Day09-DevTools/)
-- [ ] **Day 10** - Hold Shift and Check Checkboxes
+- [X] **Day 10** - Hold Shift and Check Checkboxes [DEMO](https://noeemi.github.io/JavaScript30/Day10-HoldShift/)
 - [ ] **Day 11** - Custom HTML5 Video Player
 - [ ] **Day 12** - Key Sequence Detection
 - [ ] **Day 13** - Slide In on Scroll
