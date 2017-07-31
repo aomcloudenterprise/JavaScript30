@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background: #488978;
+    color: #343434;
+    text-align: center;
+}
+h1 {
+    font-family: 'Raleway';
+}
