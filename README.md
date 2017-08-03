@@ -16,9 +16,9 @@
 - [x] **Day 9** - Dev Tools Domination [DEMO](https://noeemi.github.io/JavaScript30/Day09-DevTools/)
 - [X] **Day 10** - Hold Shift and Check Checkboxes [DEMO](https://noeemi.github.io/JavaScript30/Day10-HoldShift/)
 - [X] **Day 11** - Custom HTML5 Video Player [DEMO](https://noeemi.github.io/JavaScript30/Day11-VideoPlayer/)
-- [ ] **Day 12** - Key Sequence Detection
-- [ ] **Day 13** - Slide In on Scroll
-- [ ] **Day 14** - Object and Arrays
+- [X] **Day 12** - Key Sequence Detection [DEMO](https://noeemi.github.io/JavaScript30/Day12-KeySequenceDetection/)
+- [X] **Day 13** - Slide In on Scroll [DEMO](https://noeemi.github.io/JavaScript30/Day13-SlideInOnScroll/)
+- [X] **Day 14** - Object and Arrays [DEMO](https://noeemi.github.io/JavaScript30/Day14-ReferencesVSCopying/)
 - [ ] **Day 15** - LocalStorage and Event Delegation
 - [ ] **Day 16** - CSS Text Shadow Mouse Move Effect
 - [ ] **Day 17** - Sorting Band Names without articles
