@@ -41,10 +41,12 @@ function toggleDone(e) {
 }
 
 function clearItems() {
-    localStorage.removeItem('items');
     while(itemsList.firstChild) {
         itemsList.removeChild(itemsList.firstChild);
     }
+    items.splice(0, items.length);
+    localStorage.removeItem('items');
+    populateList(items, itemsList);
 }
 
 function checkItems() {
