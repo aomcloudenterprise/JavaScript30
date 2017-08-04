@@ -19,7 +19,7 @@
 - [X] **Day 12** - Key Sequence Detection [DEMO](https://noeemi.github.io/JavaScript30/Day12-KeySequenceDetection/)
 - [X] **Day 13** - Slide In on Scroll [DEMO](https://noeemi.github.io/JavaScript30/Day13-SlideInOnScroll/)
 - [X] **Day 14** - Object and Arrays [DEMO](https://noeemi.github.io/JavaScript30/Day14-ReferencesVSCopying/)
-- [ ] **Day 15** - LocalStorage and Event Delegation
+- [X] **Day 15** - LocalStorage and Event Delegation [DEMO](https://noeemi.github.io/JavaScript30/Day15-LocalStorage/)
 - [ ] **Day 16** - CSS Text Shadow Mouse Move Effect
 - [ ] **Day 17** - Sorting Band Names without articles
 - [ ] **Day 18** - Tally String Times with Reduce
