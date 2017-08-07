@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    background: #488978;
+    color: #343434;
+    font-family: 'Raleway';
+}
+.hero {
+  min-height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  text-shadow: 10px 10px 0 #000;
+  font-size: 100px;
+}
