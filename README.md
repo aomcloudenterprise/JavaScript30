@@ -22,7 +22,7 @@
 - [X] **Day 15** - LocalStorage and Event Delegation [DEMO](https://noeemi.github.io/JavaScript30/Day15-LocalStorage/)
 - [X] **Day 16** - CSS Text Shadow Mouse Move Effect [DEMO](https://noeemi.github.io/JavaScript30/Day16-MouseMoveShadow/)
 - [X] **Day 17** - Sorting Band Names without articles [DEMO](https://noeemi.github.io/JavaScript30/Day17-SortWithoutArticles/)
-- [ ] **Day 18** - Tally String Times with Reduce
+- [X] **Day 18** - Tally String Times with Reduce [DEMO](https://noeemi.github.io/JavaScript30/Day18-AddingUpTimesWithReduce/)
 - [ ] **Day 19** - Unreal Webcam Fun
 - [ ] **Day 20** - Native Speech Recognition
 - [ ] **Day 21** - Geolocation based Speedometer and Compass
