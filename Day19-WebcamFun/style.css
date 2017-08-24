@@ -1,0 +1,71 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background: #488978;
+    max-height: 100vh;
+    font-family: 'Raleway';
+    position: relative;
+}
+.photobooth {
+    max-width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    border-radius: 2px;
+}
+.controls {
+    width: 22%;
+    position: absolute;
+    bottom: 180px;
+    right: 20px;
+    color: #fff;
+}
+.take-photo-btn {
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    top: 30px;
+    right: 320px;
+    border: none;
+    border-radius: 10px;
+    background: #e2924d;
+    color: #fff;
+    font-family: 'Raleway';
+    font-weight: 600;
+    transition: .3s;
+}
+.take-photo-btn:hover {
+    cursor: pointer;
+    background: #ba6e2c;
+}
+.photo {
+    height: 80vh;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.player {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    width: 250px;
+}
+.strip {
+    width: 100%;
+    height: 140px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.strip img {
+    width: 110px;
+    overflow-x: scroll;
+    padding: 0.5rem 0.5rem 2rem 0.5rem;
+    box-shadow: 0 0 3px rgba(0,0,0,0.2);
+    background: white;
+}
+.strip a:nth-child(5n+1) img { transform: rotate(10deg); }
+.strip a:nth-child(5n+2) img { transform: rotate(-2deg); }
+.strip a:nth-child(5n+3) img { transform: rotate(8deg); }
+.strip a:nth-child(5n+4) img { transform: rotate(-11deg); }
+.strip a:nth-child(5n+5) img { transform: rotate(12deg); }
